@@ -1,0 +1,100 @@
+---
+title: "Gra - Plumber"
+output: html_document
+author: Marcin Seliga
+---
+
+
+
+# Wersja polska
+
+## Instrukcja
+
+Celem gry jest stworzenie z nieuporządkowanych fragmentów rur połączenia łączącego zawór z odpływem.
+Gracz musi obracać elementy tak długo, aż uzyska połączenie. 
+
+Kiedy gracz jest gotowy może odkręcić zawór i pozwolić wodzie popłynąć.
+Jeśli nie wystąpi brak ciągłości gracz wygrywa poziom
+
+Gra składa się z poziomów o zróżnicowanym poziomie trudności. Aby odblokować kolejny poziom gracz musi pomyślnie ukończyć bieżący. 
+
+**Stan gry zapisywany jest automatycznie. Jeśli gracz wróci do przerwanej wcześniej gry, kontynuować będzie z odblokowanymi tymi samymi poziomami.**
+
+## Sterowanie
+
+Sterowanie w całej grze odbywa się przy pomocy klawiatury.
+Aby wybierać odpowiednie polecenia w MENU gracz musi wybierać odpowiednie przyciski. 
+W samej grze gracz posługuję się następującymi przyciskami:
+
+* Strzałki - poruszanie się pomiędzy rurami,
+* Spacja - obrót rury zgodnie z ruchem wskazówek zegara,
+* Lewy ctrl - obrót rury przeciwnie do ruchu wskazówek zegara,
+* Enter - koniec układania rur i odkręcenie wody.
+
+## Wykorzystane źródła
+
+**Wszystkie grafiki zostały stworzone samodzielnie przez autora gry (naprawdę!).**
+
+Efekty dźwiękowe użyte w grze zostały pobrane ze strony [OpenGameArt.org](https://opengameart.org/).
+Użyte efekty dźwiękowe:
+
+* "Clang1", "Plate1" - autor qubodup -[link1](https://opengameart.org/content/metal-clang-explosions-zing) - licencja CC BY 3.0,
+* "Water flowing sound" - autor erxer1 - [link2](https://opengameart.org/content/water-flowing-sound) - licencja CC BY 3.0 - na potrzeby gry oryginalna ścieżka została przycięta,
+* "Touch", "VicotorySmall", "VictoryBig" - autor Dizzy Crow - [link3]("https://opengameart.org/content/8-bit-sound-fx") - licencja CC 1.0.
+
+Gra polecana jest osobom ceniącym sobie minimalizm.
+
+# Udanej zabawy!
+
+
+
+
+<br><br><br><br><br><br><br><br><br>
+
+
+# English version
+
+## Instruction
+
+The purpose of the game is to create connection between valve and outlet using unsorted pieces of the pipes.
+The player has to rotate the elements as long as connection will be created.
+
+When connection is ready, player can let the water flow.
+If the water will not meet any lack of connection the player wins a round.
+
+The game consists of the levels of diversified difficulty. To unlock next level player have to successfully
+complete the current one.
+
+**The game progress will be saved automaticly. If the player will come back after stopping, the game will start from the same levels unlocked.**
+
+
+## Controls
+
+In the whole game controling is based on the keyboard.
+To choose the options in MENU player has to press adequate keys.
+In the game itself player controls with the following keys:
+
+* Arrows - to move between pipes,
+* Space - to rotate pipe clockwise,
+* Lewy ctrl - to rotate pipe counter - clockwise,
+* Enter - to end laying the pipes and let the water flow.
+
+## Used sources
+
+**All the graphics in the game have been made by the author himself (really!).**
+
+The sound effects used in the game were downloaded from page [OpenGameArt.org](https://opengameart.org/).
+Used sound effect:
+
+* "Clang1", "Plate1" - author qubodup -[link1](https://opengameart.org/content/metal-clang-explosions-zing) - CC BY 3.0 license,
+* "Water flowing sound" - author erxer1 - [link2](https://opengameart.org/content/water-flowing-sound) - CC BY 3.0 license - for the game purposes the original file was trimmed,
+* "Touch", "VicotorySmall", "VictoryBig" - author Dizzy Crow - [link3]("https://opengameart.org/content/8-bit-sound-fx") - CC 1.0 license.
+
+The game is recommended to the people who find joy in minimalism.
+
+# Have fun!
+
+
+
+
+
